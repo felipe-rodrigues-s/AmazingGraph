@@ -10,9 +10,9 @@
     Landing page to create amazing graphics
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
+    <a href="https://github.com/felipe-rodrigues-s/AmazingGraph">Challenge</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+    <a href=https://www.linkedin.com/in/felipe-rodrigues-da-silva-650956161/">Contact</a>
   </p>
 </p>
 
@@ -30,18 +30,6 @@ Seu desafio é criar uma página sobre um site de criação de gráficos.
 # Techs: 
 HTML<br>
 CSS
-
-# Getting start:
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
-1 - Use esse template ou baixe esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
-
 
 # Requirements:
 - Your page should get it looking as close to the design as possible<br>
